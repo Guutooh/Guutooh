@@ -36,8 +36,8 @@ atualmente tenho me dedicado a dorminar programação python com foco em analise
 
 <div align="center">
   <a href="https://github.com/Guutooh">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guutooh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guutooh&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guutooh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guutooh&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
     
