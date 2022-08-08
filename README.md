@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
 <h3 align="center">  
 
-Olá, eu sou o Gustavo Oliveira!
+Olá, eu sou o Gustavo!
 <br>
 
   
