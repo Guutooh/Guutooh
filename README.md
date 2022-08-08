@@ -30,7 +30,7 @@ Olá, eu sou o Gustavo Oliveira!
   
   ```
 Formado em Sistemas de informação pela Uninove - Universidade Nove de Julho, 
-atualmente tenho me dedicado a dorminar programação python com foco para trabalhar com analise de dados.
+atualmente tenho me dedicado a dorminar programação python com foco em analise de dados.
 ```
 </h3>
 
