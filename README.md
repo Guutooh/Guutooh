@@ -12,6 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Tecnologias que estou estudando atualmente 💻
+ 
+- Python<img align="center" alt="Gutoh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- AWS Solution Architect <img align="center" alt="Gutoh-Aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+- SQL Server <img align="center" alt="Gutoh-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+- MySQL <img align="center" alt="Gutoh-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor" />
+- Pandas
+- NumPy
+
 -->
 
 <h4 align="center">
@@ -41,12 +51,12 @@ atualmente tenho me dedicado a dominar programação python com foco em análise
 </div>
     
     
-## Tecnologias que estou estudando atualmente 💻
+## Tecnologias que estudo/Utilizo  atualmente 💻
  
-- Python<img align="center" alt="Gutoh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- AWS Solution Architect <img align="center" alt="Gutoh-Aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-- SQL Server <img align="center" alt="Gutoh-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-- MySQL <img align="center" alt="Gutoh-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor" />
+- Python
+- AWS Solution Architect 
+- SQL Server 
+- MySQL 
 - Pandas
 - NumPy
     
