@@ -41,7 +41,7 @@ Olá, eu sou o Gustavo!
   ```
 Formado em Sistemas de informação pela Uninove - Universidade Nove de Julho, 
 atualmente tenho me dedicado a dominar programação python com foco em análise de dados.
- Linkedin: <a> linkedin.com/in/gustavo-oliveira-santos/ </a>
+ Linkedin:  (linkedin.com/in/gustavo-oliveira-santos/)
 ```
 </h3>
 
