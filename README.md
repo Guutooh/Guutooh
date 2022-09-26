@@ -55,9 +55,8 @@ atualmente tenho me dedicado a dominar programação python com foco em análise
 ## Tecnologias que estudo/Utilizo  atualmente 💻
  
 - Python
-- AWS Solution Architect 
+- Java 
 - SQL Server 
 - MySQL 
-- Pandas
-- NumPy
+
     
