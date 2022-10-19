@@ -57,7 +57,6 @@ atualmente tenho me dedicado a dominar programação python com foco em análise
 - Python
 - Java 
 - SQL Server 
-- MySQL 
 - Github
 
     
