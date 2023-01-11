@@ -40,7 +40,7 @@ Olá, me chamo Gustavo!
   
   ```
 Formado em Sistemas de informação pela Uninove - Universidade Nove de Julho, 
-atualmente tenho me dedicado a dominar programação python com foco em análise de dados.
+atualmente tenho me dedicado a dominar programação Java e todo seu ecossistema.
 ```
  Linkedin:  https://www.linkedin.com/in/gustavo-oliveira-santos/
 </h3>
