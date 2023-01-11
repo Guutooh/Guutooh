@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
 <h3 align="center">  
 
-Olá, eu sou o Gustavo!
+Olá, me chamo Gustavo!
 <br>
 
   
