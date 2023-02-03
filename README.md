@@ -55,7 +55,6 @@ atualmente tenho me dedicado a dominar programação Java e todo seu ecossistema
     
 ## Tecnologias que estudo/Utilizo  atualmente 💻
  
-- Python
 - Java 
 - SQL Server 
 - Github
