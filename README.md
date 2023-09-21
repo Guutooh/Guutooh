@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - NumPy
 
 -->
+<div align =center>
 
 <h4 align="center">
  
@@ -38,7 +39,7 @@ Olá, me chamo Gustavo!
 <br>
 
   
-  ```
+```
 Formado em Sistemas de informação pela Uninove - Universidade Nove de Julho, 
 atualmente tenho me dedicado a dominar programação Java e todo seu ecossistema.
 ```
@@ -114,7 +115,7 @@ bem ligado em tecnologia e um desbravador na programação Java spring boot..
 ## Tecnologias que estudo/Utilizo  atualmente 💻
 
 
-- Java -
+- Java 
 - Spring boot 
 - Maven 
 - SQLSERVER
@@ -126,7 +127,7 @@ bem ligado em tecnologia e um desbravador na programação Java spring boot..
 - Docker
  
 
-
+</div align =center>
     
 
 
