@@ -31,17 +31,17 @@ bem ligado em tecnologia e um desbravador na programação Java spring boot..
     
 ## Tecnologias que estudo/Utilizo  atualmente 💻
 
-
 - Java 
-- Spring boot 
-- Maven 
+- Spring boot  
 - SQLSERVER
 - Hibernate
+- JPA
 - MySql
-- Ribbon
 - Eureka server e Client
 - Config server
-- Docker
+- Html
+- Css
+
  
 
 </div align =center>
