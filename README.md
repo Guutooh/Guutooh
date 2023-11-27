@@ -1,51 +1,54 @@
 <div align = "center">
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<hr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Guutooh)](https://www.linkedin.com/in/gustavo-oliveira-santos/)
-  
-<h3 align="center">  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Gustavo+Oliveira;Desenvolvedor+Back-End;Seja+bem+vindo!+)](https://git.io/typing-svg)
 
-Olá, me chamo Gustavo!
+<div align="center"> 
+<a href = "mailto:gustavo.oliveiradossantos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustavo-oliveira-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ <br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
+</p>
 <br>
 
-  
-  ```
-Formado em Sistemas de informação pela Uninove - Universidade Nove de Julho,
-bem ligado em tecnologia e um desbravador na programação Java spring boot..
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guutooh&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guutooh&show_icons&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-```
- Linkedin:  https://www.linkedin.com/in/gustavo-oliveira-santos/
-</h3>
+## <center> skills:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,java,github,git,spring,hibernate,mysql,maven,idea" />
+</div>
+
+## Estudando atualmente:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=angular,rabbitmq,typescript,azure,aws" />
+</div>
+<br>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guutooh&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
 <div align="center">
-  <a href="https://github.com/Guutooh">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guutooh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-                           
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guutooh&layout=compact&langs_count=7&theme=github_dark"/> 
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Guutooh}/count.svg" /></p> 
 </div>
-    
-    
-## Tecnologias que estudo/Utilizo  atualmente 💻
 
-- Java 
-- Spring boot  
-- SQLSERVER
-- Hibernate
-- JPA
-- MySql
-- Eureka server e Client
-- Config server
-- Html
-- Css
+<div align="center">
+  <h2>Contribuições</h2>
 
- 
-
-</div align =center>
-    
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
-    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+
+</div>
