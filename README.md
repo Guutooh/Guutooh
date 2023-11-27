@@ -22,7 +22,7 @@
 
 ## <center> skills:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,java,github,git,spring,hibernate,mysql,maven,idea" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,github,git,spring,hibernate,mysql,maven,idea,vscode,postman" />
 </div>
 
 ## Estudando atualmente:
