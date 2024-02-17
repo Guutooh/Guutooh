@@ -27,7 +27,7 @@
 
 ## Estudando atualmente:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,rabbitmq,typescript,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=js,angular,rabbitmq,typescript,azure,aws" />
 </div>
 <br>
 
