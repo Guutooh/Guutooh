@@ -22,12 +22,12 @@
 
 ## <center> skills:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,github,git,spring,hibernate,mysql,postgres,maven,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,java,github,git,spring,hibernate,mysql,postgres,maven,idea,vscode,postman" />
 </div>
 
 ## Estudando atualmente:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,angular,rabbitmq,typescript,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,angular,rabbitmq,typescript,azure,aws" />
 </div>
 <br>
 
