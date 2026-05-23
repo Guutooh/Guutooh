@@ -56,14 +56,6 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-guutoohs-projects.vercel.app/api?username=Guutooh&show_icons=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-guutoohs-projects.vercel.app/api/top-langs/?username=Guutooh&layout=compact&hide_border=true&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Guutooh&hide_border=true&background=0d1117&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </p>
 
@@ -82,9 +74,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/gustavo-oliveira-santos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-eight-psi-46.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://dev.to/guutooh" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
