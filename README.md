@@ -1,60 +1,96 @@
-<div align = "center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=120&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Gustavo+Oliveira;Desenvolvedor+Back-End;Seja+bem+vindo!+)](https://git.io/typing-svg)
+<h1 align="center">Olá, eu sou Gustavo Oliveira 👋</h1>
+<h3 align="center">Desenvolvedor Backend · Java & Spring Boot · São Paulo, BR</h3>
 
-<div align="center"> 
-<a href = "mailto:gustavo.oliveiradossantos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-oliveira-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- <br>
+<br/>
+
+## 👨‍💻 Sobre mim
+
+- 🔧 Construo APIs REST e sistemas distribuídos com **Java & Spring Boot**
+- 🔐 Focado em segurança backend: **Spring Security, JWT e OAuth2**
+- 🗄️ Experiente com **JPA/Hibernate**, bancos relacionais e arquitetura de microsserviços
+- 🖥️ Trabalho também no frontend com **Angular** para entregar soluções completas
+- 🚀 Sempre desenvolvendo produtos SaaS próprios — acredito que software deve resolver problemas reais
+
+<br/>
+
+## 📚 Estudando atualmente
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,rabbitmq,aws" />
+ <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" width="48" height="48" alt="junit" />
+
+</p>
+
+<br/>
+
+## 🛠️ Tecnologias
+
+**Backend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+**Banco de Dados**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+**DevOps & Ferramentas**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,idea,github,figma" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" width="48" height="48" alt="Swagger" />
+</p>
+
+<br/>
+
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+  <img height="180em" src="https://github-readme-stats-git-master-guutoohs-projects.vercel.app/api?username=Guutooh&show_icons=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" />
 </p>
-<br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guutooh&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guutooh&show_icons&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-guutoohs-projects.vercel.app/api/top-langs/?username=Guutooh&layout=compact&hide_border=true&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" />
+</p>
 
-## <center> skills:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,java,github,git,spring,hibernate,mysql,postgres,maven,idea,vscode,postman" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Guutooh&hide_border=true&background=0d1117&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</p>
 
-## Estudando atualmente:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,angular,rabbitmq,typescript,azure,aws" />
-</div>
-<br>
+<br/>
 
+## 📈 Atividade
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guutooh&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guutooh&bg_color=0d1117&color=c9d1d9&line=6DB33F&point=6DB33F&area=true&hide_border=true"/>
+</p>
 
-<div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Guutooh}/count.svg" /></p> 
-</div>
+<br/>
 
-<div align="center">
-  <h2>Contribuições</h2>
+## 📫 Contato
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/gustavo-oliveira-santos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/guutooh" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="mailto:gustavo.oliveiradossantos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
- <br/><br/><br/>
-  <img alt="snake eating my contributions" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-  
-  <br/><br/><br/>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=120&section=footer"/>
